@@ -1,0 +1,20 @@
+[17-Mar-2024 22:07:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/vipgroup.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/blocks/index.php on line 8
+[21-Mar-2024 04:04:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/vipgroup.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/blocks/index.php on line 8
+[21-Mar-2024 06:35:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/vipgroup.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/blocks/index.php on line 8
+[22-Mar-2024 00:41:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/vipgroup.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/blocks/index.php on line 8
+[24-Mar-2024 10:16:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/vipgroup.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/blocks/index.php on line 8

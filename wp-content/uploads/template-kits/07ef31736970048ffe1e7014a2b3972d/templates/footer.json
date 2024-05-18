@@ -1,0 +1,1105 @@
+{
+    "version": "0.4",
+    "title": "Footer",
+    "type": "footer",
+    "metadata": {
+        "template_type": "section-footer",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "footer",
+        "elementor_pro_conditions": [
+            "include\/general"
+        ],
+        "additional_template_information": [
+            "This is a \"Footer\" template for Elementor Pro.",
+            "This template will display on: Entire Site."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "4abd4f4f",
+            "settings": {
+                "structure": "20",
+                "background_background": "gradient",
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "initial",
+                "background_ypos": {
+                    "unit": "px",
+                    "size": -357,
+                    "sizes": []
+                },
+                "background_size": "cover",
+                "padding": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=accent"
+                },
+                "background_overlay_image": {
+                    "url": "http:\/\/demo2.strongtheme.com\/autocar\/wp-content\/uploads\/sites\/3\/2021\/07\/autohome023.png",
+                    "id": 386,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.309999999999999997779553950749686919152736663818359375,
+                    "sizes": []
+                },
+                "background_color_b": "#7D0000",
+                "margin": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "content_width": {
+                    "unit": "px",
+                    "size": 1280,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "e9775c",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "6ad2bde8",
+                            "settings": {
+                                "title": "HAVE A QUESTIONS? FEEL FREE TO ASK",
+                                "header_size": "h3",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "756e2e34",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "3b45db39",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "b10b667",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "92498e3",
+                                            "settings": {
+                                                "price_list": [
+                                                    {
+                                                        "title": "+6208740040",
+                                                        "link": {
+                                                            "url": "#"
+                                                        },
+                                                        "_id": "fb3f9ab",
+                                                        "image": {
+                                                            "url": "http:\/\/demo2.strongtheme.com\/autocar\/wp-content\/uploads\/sites\/3\/2021\/07\/autolisting73.png",
+                                                            "id": 1165,
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        }
+                                                    }
+                                                ],
+                                                "separator_weight": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "image_size_size": "custom",
+                                                "image_size_custom_dimension": {
+                                                    "width": "60",
+                                                    "height": "60"
+                                                },
+                                                "vertical_align": "center",
+                                                "__globals__": {
+                                                    "heading_typography_typography": "globals\/typography?id=primary",
+                                                    "heading_color": "globals\/colors?id=primary"
+                                                },
+                                                "row_gap": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "price-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "df7d3c9",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3b77ac47",
+                                            "settings": {
+                                                "social_icon_list": [
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "fc9efb5"
+                                                    },
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "49c7584"
+                                                    },
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-youtube",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "513dc7c"
+                                                    },
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "289b982"
+                                                    }
+                                                ],
+                                                "align": "left",
+                                                "icon_color": "custom",
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 17,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_primary_color": "",
+                                                    "icon_secondary_color": "globals\/colors?id=primary",
+                                                    "hover_secondary_color": "globals\/colors?id=36b0f7c"
+                                                },
+                                                "icon_primary_color": "#C5000000",
+                                                "icon_secondary_color": "#F8F8F8",
+                                                "hover_animation": "shrink",
+                                                "align_mobile": "center",
+                                                "icon_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "hide_tablet": "hidden-tablet"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "social-icons",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "18b1f976",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1280,
+                    "sizes": []
+                },
+                "structure": "50",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/demo2.strongtheme.com\/autocar\/wp-content\/uploads\/sites\/3\/2021\/07\/autohome010.png",
+                    "id": 193,
+                    "alt": "",
+                    "source": "library"
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_position_mobile": "center left",
+                "background_repeat_mobile": "no-repeat",
+                "background_size_mobile": "cover"
+            },
+            "elements": [
+                {
+                    "id": "35956330",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "3212e02f",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/demo2.strongtheme.com\/autocar\/wp-content\/uploads\/sites\/3\/2021\/07\/logo2.png",
+                                    "id": 967,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align": "left",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "align_tablet": "center",
+                                "align_mobile": "center",
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 65,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "ae292c3",
+                            "settings": {
+                                "editor": "<p>Felis ad faucibus magna netus dictum augue velit\u00a0<\/p>",
+                                "text_color": "#CFCFCF",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Poppins",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "300",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.600000000000000088817841970012523233890533447265625,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=a57f1fe",
+                                    "text_color": ""
+                                },
+                                "align_tablet": "center",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7ce06c16",
+                            "settings": {
+                                "skin": "minimal",
+                                "placeholder": "Search...",
+                                "button_text": "Search",
+                                "input_text_color": "#F8F8F8",
+                                "input_background_color": "#1201012B",
+                                "__globals__": {
+                                    "input_text_color": "globals\/colors?id=primary",
+                                    "input_background_color": "",
+                                    "input_typography_typography": "globals\/typography?id=7dfdfaf",
+                                    "input_text_color_focus": "globals\/colors?id=secondary"
+                                },
+                                "size": {
+                                    "unit": "px",
+                                    "size": 52,
+                                    "sizes": []
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "70",
+                                    "bottom": "0",
+                                    "left": "70",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "search-form",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "29399db3",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "_inline_size_tablet": 25,
+                        "content_position_tablet": "top",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "-90",
+                            "bottom": "0",
+                            "left": "90",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4841ddf8",
+                            "settings": {
+                                "title": "Vehicles",
+                                "header_size": "h5",
+                                "__globals__": {
+                                    "typography_typography": "",
+                                    "title_color": "globals\/colors?id=primary"
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "37",
+                                    "isLinked": false
+                                },
+                                "_background_background": "classic",
+                                "_background_image": {
+                                    "url": "http:\/\/demo2.strongtheme.com\/autocar\/wp-content\/uploads\/sites\/3\/2021\/07\/autolisting86.png",
+                                    "id": 1977,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_background_position": "center left",
+                                "_background_repeat": "no-repeat",
+                                "_background_size": "initial",
+                                "_background_hover_background": "classic",
+                                "_background_hover_image": {
+                                    "url": "http:\/\/demo2.strongtheme.com\/autocar\/wp-content\/uploads\/sites\/3\/2021\/07\/autolisting59.png",
+                                    "id": 981,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_background_position_tablet": "center center",
+                                "_background_position_mobile": "center center",
+                                "_background_size_tablet": "initial",
+                                "_background_size_mobile": "contain",
+                                "_background_bg_width_tablet": {
+                                    "unit": "px",
+                                    "size": 400,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3568f2a8",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "SUVs",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "ea1b8b8"
+                                    },
+                                    {
+                                        "text": " Trucks",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "1208b08"
+                                    },
+                                    {
+                                        "text": "Crossovers",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "9c2d0ac"
+                                    },
+                                    {
+                                        "text": "Hybrids",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "27bc521"
+                                    },
+                                    {
+                                        "text": "Electrified Vehicles",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "d7924f0"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 9,
+                                    "sizes": []
+                                },
+                                "icon_align": "left",
+                                "text_color": "#CFCFCF",
+                                "text_color_hover": "#F8F8F8",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "text_color_hover": "globals\/colors?id=primary",
+                                    "text_color": "",
+                                    "icon_typography_typography": "globals\/typography?id=a57f1fe",
+                                    "icon_color": "globals\/colors?id=accent",
+                                    "divider_color": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "340e887",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 25,
+                        "content_position_tablet": "top",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "-60",
+                            "bottom": "0",
+                            "left": "60",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "38312449",
+                            "settings": {
+                                "title": "Helpful Links",
+                                "header_size": "h5",
+                                "__globals__": {
+                                    "typography_typography": "",
+                                    "title_color": "globals\/colors?id=primary"
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "37",
+                                    "isLinked": false
+                                },
+                                "_background_background": "classic",
+                                "_background_image": {
+                                    "url": "http:\/\/demo2.strongtheme.com\/autocar\/wp-content\/uploads\/sites\/3\/2021\/07\/autolisting86.png",
+                                    "id": 1977,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_background_position": "center left",
+                                "_background_repeat": "no-repeat",
+                                "_background_size": "initial",
+                                "_background_hover_background": "classic",
+                                "_background_hover_image": {
+                                    "url": "http:\/\/demo2.strongtheme.com\/autocar\/wp-content\/uploads\/sites\/3\/2021\/07\/autolisting59.png",
+                                    "id": 981,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_background_position_tablet": "center center",
+                                "_background_position_mobile": "center center",
+                                "_background_size_tablet": "initial",
+                                "_background_size_mobile": "contain",
+                                "_background_bg_width_tablet": {
+                                    "unit": "px",
+                                    "size": 400,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "67808728",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Autocar Care",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "ea1b8b8"
+                                    },
+                                    {
+                                        "text": "Financial Services",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "1208b08"
+                                    },
+                                    {
+                                        "text": "Connected Services",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "9c2d0ac"
+                                    },
+                                    {
+                                        "text": "Mobility Feature",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "27bc521"
+                                    },
+                                    {
+                                        "text": "Car Tips & Advice",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "d7924f0"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 9,
+                                    "sizes": []
+                                },
+                                "icon_align": "left",
+                                "text_color": "#CFCFCF",
+                                "text_color_hover": "#F8F8F8",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "text_color_hover": "globals\/colors?id=primary",
+                                    "text_color": "",
+                                    "icon_typography_typography": "globals\/typography?id=a57f1fe",
+                                    "icon_color": "globals\/colors?id=accent",
+                                    "divider_color": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7e607db5",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 25,
+                        "content_position_tablet": "top",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "-30",
+                            "bottom": "0",
+                            "left": "30",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2c8bdd5e",
+                            "settings": {
+                                "title": "About Autocar",
+                                "header_size": "h5",
+                                "__globals__": {
+                                    "typography_typography": "",
+                                    "title_color": "globals\/colors?id=primary"
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "37",
+                                    "isLinked": false
+                                },
+                                "_background_background": "classic",
+                                "_background_image": {
+                                    "url": "http:\/\/demo2.strongtheme.com\/autocar\/wp-content\/uploads\/sites\/3\/2021\/07\/autolisting86.png",
+                                    "id": 1977,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_background_position": "center left",
+                                "_background_repeat": "no-repeat",
+                                "_background_size": "initial",
+                                "_background_hover_background": "classic",
+                                "_background_hover_image": {
+                                    "url": "http:\/\/demo2.strongtheme.com\/autocar\/wp-content\/uploads\/sites\/3\/2021\/07\/autolisting59.png",
+                                    "id": 981,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_background_position_tablet": "center center",
+                                "_background_position_mobile": "center center",
+                                "_background_size_tablet": "initial",
+                                "_background_size_mobile": "contain",
+                                "_background_bg_width_tablet": {
+                                    "unit": "px",
+                                    "size": 400,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "ac27f42",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Careers",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "ea1b8b8"
+                                    },
+                                    {
+                                        "text": "Our Company",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "1208b08"
+                                    },
+                                    {
+                                        "text": "Merchandise",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "9c2d0ac"
+                                    },
+                                    {
+                                        "text": "Auto Show",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "27bc521"
+                                    },
+                                    {
+                                        "text": "Plant Tours",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "d7924f0"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 9,
+                                    "sizes": []
+                                },
+                                "icon_align": "left",
+                                "text_color": "#CFCFCF",
+                                "text_color_hover": "#F8F8F8",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "text_color_hover": "globals\/colors?id=primary",
+                                    "text_color": "",
+                                    "icon_typography_typography": "globals\/typography?id=a57f1fe",
+                                    "icon_color": "globals\/colors?id=accent",
+                                    "divider_color": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7f945cfb",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 25,
+                        "content_position_tablet": "top"
+                    },
+                    "elements": [
+                        {
+                            "id": "27134d0e",
+                            "settings": {
+                                "title": "Help",
+                                "header_size": "h5",
+                                "__globals__": {
+                                    "typography_typography": "",
+                                    "title_color": "globals\/colors?id=primary"
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "37",
+                                    "isLinked": false
+                                },
+                                "_background_background": "classic",
+                                "_background_image": {
+                                    "url": "http:\/\/demo2.strongtheme.com\/autocar\/wp-content\/uploads\/sites\/3\/2021\/07\/autolisting86.png",
+                                    "id": 1977,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_background_position": "center left",
+                                "_background_repeat": "no-repeat",
+                                "_background_size": "initial",
+                                "_background_hover_background": "classic",
+                                "_background_hover_image": {
+                                    "url": "http:\/\/demo2.strongtheme.com\/autocar\/wp-content\/uploads\/sites\/3\/2021\/07\/autolisting59.png",
+                                    "id": 981,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_background_position_tablet": "center center",
+                                "_background_position_mobile": "center center",
+                                "_background_size_tablet": "initial",
+                                "_background_size_mobile": "contain",
+                                "_background_bg_width_tablet": {
+                                    "unit": "px",
+                                    "size": 400,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "37e60345",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Contact Us",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "ea1b8b8"
+                                    },
+                                    {
+                                        "text": "Accessibility",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "1208b08"
+                                    },
+                                    {
+                                        "text": "FAQs",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "9c2d0ac"
+                                    },
+                                    {
+                                        "text": "Privacy Policy",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "27bc521"
+                                    },
+                                    {
+                                        "text": "Legal Disclaimer",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "d7924f0"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 9,
+                                    "sizes": []
+                                },
+                                "icon_align": "left",
+                                "text_color": "#CFCFCF",
+                                "text_color_hover": "#F8F8F8",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "text_color_hover": "globals\/colors?id=primary",
+                                    "text_color": "",
+                                    "icon_typography_typography": "globals\/typography?id=a57f1fe",
+                                    "icon_color": "globals\/colors?id=accent",
+                                    "divider_color": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "76f65fcb",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/demo2.strongtheme.com\/autocar\/wp-content\/uploads\/sites\/3\/2021\/07\/autohome013.png",
+                    "id": 336,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=36b0f7c"
+                }
+            },
+            "elements": [
+                {
+                    "id": "54e29e0",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "40967d94",
+                            "settings": {
+                                "title": "\n\u00a9 2021 Autocar is proudly powered by Onecontributor",
+                                "align": "center",
+                                "title_color": "#CFCFCF",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_color": "",
+                                    "typography_typography": "globals\/typography?id=7dfdfaf"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

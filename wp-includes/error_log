@@ -1,0 +1,80 @@
+[17-Mar-2024 22:05:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/vipgroup.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-http.php on line 11
+[17-Mar-2024 22:05:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/vipgroup.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-scripts.php on line 18
+[17-Mar-2024 22:05:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/vipgroup.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-styles.php on line 18
+[17-Mar-2024 22:06:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/vipgroup.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/template-canvas.php on line 12
+[21-Mar-2024 04:01:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/vipgroup.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-http.php on line 11
+[21-Mar-2024 04:01:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/vipgroup.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-scripts.php on line 18
+[21-Mar-2024 04:01:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/vipgroup.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-styles.php on line 18
+[21-Mar-2024 04:02:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/vipgroup.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/template-canvas.php on line 12
+[21-Mar-2024 06:34:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/vipgroup.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-http.php on line 11
+[21-Mar-2024 06:34:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/vipgroup.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-scripts.php on line 18
+[21-Mar-2024 06:34:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/vipgroup.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-styles.php on line 18
+[21-Mar-2024 06:35:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/vipgroup.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/template-canvas.php on line 12
+[22-Mar-2024 00:40:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/vipgroup.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-http.php on line 11
+[22-Mar-2024 00:40:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/vipgroup.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-scripts.php on line 18
+[22-Mar-2024 00:40:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/vipgroup.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-styles.php on line 18
+[22-Mar-2024 00:41:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/vipgroup.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/template-canvas.php on line 12
+[24-Mar-2024 10:13:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/vipgroup.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-http.php on line 11
+[24-Mar-2024 10:13:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/vipgroup.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-scripts.php on line 18
+[24-Mar-2024 10:14:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/vipgroup.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/class-wp-styles.php on line 18
+[24-Mar-2024 10:15:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/vipgroup.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-includes/template-canvas.php on line 12

@@ -1,0 +1,240 @@
+[08-Jan-2024 03:07:32 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[08-Jan-2024 03:07:32 UTC] objectcache.warning: Failing over to in-memory object cache
+[08-Jan-2024 03:07:47 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[08-Jan-2024 03:07:47 UTC] objectcache.warning: Failing over to in-memory object cache
+[08-Jan-2024 03:07:52 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[08-Jan-2024 03:07:52 UTC] objectcache.warning: Failing over to in-memory object cache
+[08-Jan-2024 03:08:33 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[08-Jan-2024 03:08:33 UTC] objectcache.warning: Failing over to in-memory object cache
+[08-Jan-2024 03:08:33 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[08-Jan-2024 03:08:33 UTC] objectcache.warning: Failing over to in-memory object cache
+[08-Jan-2024 03:08:46 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[08-Jan-2024 03:08:46 UTC] objectcache.warning: Failing over to in-memory object cache
+[08-Jan-2024 03:10:56 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[08-Jan-2024 03:10:56 UTC] objectcache.warning: Failing over to in-memory object cache
+[08-Jan-2024 03:11:47 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[08-Jan-2024 03:11:47 UTC] objectcache.warning: Failing over to in-memory object cache
+[08-Jan-2024 03:11:55 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[08-Jan-2024 03:11:55 UTC] objectcache.warning: Failing over to in-memory object cache
+[08-Jan-2024 03:11:56 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[08-Jan-2024 03:11:56 UTC] objectcache.warning: Failing over to in-memory object cache
+[08-Jan-2024 03:12:21 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[08-Jan-2024 03:12:21 UTC] objectcache.warning: Failing over to in-memory object cache
+[08-Jan-2024 18:18:35 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[08-Jan-2024 18:18:35 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:09:59 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:10:01 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:10:43 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:10:43 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:11:43 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:11:43 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:12:10 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:12:10 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:12:11 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:12:11 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:12:14 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:12:14 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:12:24 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:12:24 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:12:39 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:12:39 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:12:41 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:12:41 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:12:57 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:12:57 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:12:58 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:12:58 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:14:14 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:14:14 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:14:30 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:14:30 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:14:30 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:14:30 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:14:34 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:14:34 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:14:43 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:14:43 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:14:58 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:14:58 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:15:13 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:15:13 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:15:28 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:15:28 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:15:43 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:15:43 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:15:58 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:15:58 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:16:13 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:16:13 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:16:28 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:16:28 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:16:44 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:16:44 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:18:45 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:18:45 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:19:30 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:19:30 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:19:45 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:19:45 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:20:01 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:20:01 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:20:55 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:20:55 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:21:09 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:21:09 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:23:15 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:23:15 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:24:14 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:24:14 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:26:13 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:26:13 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:28:15 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:28:15 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:29:47 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:29:47 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:29:53 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:29:53 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:30:08 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:30:08 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:30:08 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:30:08 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:30:15 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:30:15 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:30:15 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:30:15 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:30:24 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:30:24 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:30:39 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:30:39 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:30:54 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:30:54 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:31:09 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:31:09 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:31:24 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:31:24 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:31:39 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:31:39 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:32:17 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:32:17 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:33:40 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:33:40 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:34:18 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:34:18 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:35:42 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:35:42 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:37:43 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:37:43 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:39:44 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:39:44 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 01:41:45 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 01:41:45 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:04:07 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:04:07 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:06:06 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:06:06 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:08:08 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:08:08 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:10:09 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:10:09 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:12:10 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:12:10 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:14:11 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:14:11 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:25:13 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:25:13 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:27:05 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:27:05 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:29:06 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:29:06 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:29:28 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:29:28 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:29:44 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:29:44 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:30:00 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:30:00 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:32:01 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:32:01 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:34:02 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:34:02 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:36:03 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:36:03 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:37:21 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:37:21 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:37:36 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:37:36 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:39:37 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:39:37 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:41:38 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:41:38 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:43:41 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:43:41 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:45:43 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:45:43 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 02:47:41 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 02:47:41 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 05:58:54 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 05:58:54 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 06:00:54 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 06:00:54 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 06:02:55 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 06:02:55 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 06:04:56 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 06:04:56 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 06:06:57 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 06:06:57 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 06:09:02 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 06:09:02 UTC] objectcache.warning: Failing over to in-memory object cache
+[09-Jan-2024 06:37:45 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[09-Jan-2024 06:37:45 UTC] objectcache.warning: Failing over to in-memory object cache
+[12-Jan-2024 03:52:40 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[12-Jan-2024 03:52:40 UTC] objectcache.warning: Failing over to in-memory object cache
+[12-Jan-2024 03:52:43 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[12-Jan-2024 03:52:43 UTC] objectcache.warning: Failing over to in-memory object cache
+[12-Jan-2024 03:52:51 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[12-Jan-2024 03:52:51 UTC] objectcache.warning: Failing over to in-memory object cache
+[12-Jan-2024 03:53:19 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[12-Jan-2024 03:53:19 UTC] objectcache.warning: Failing over to in-memory object cache
+[12-Jan-2024 03:53:44 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[12-Jan-2024 03:53:44 UTC] objectcache.warning: Failing over to in-memory object cache
+[12-Jan-2024 03:53:57 UTC] objectcache.critical: Failed to initialize object cache: Connection refused
+[12-Jan-2024 03:53:57 UTC] objectcache.warning: Failing over to in-memory object cache
+[12-Jan-2024 03:54:30 UTC] Connection refused
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-1045.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-1066.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-11.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-1367.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-1449.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-1526.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-192.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-2180.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-2209.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-2350.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-377.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-458.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-490.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-529.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-541.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-551.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-585.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-60.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-606.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-664.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-674.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-68.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[07-Feb-2024 03:17:14 UTC] PHP Warning:  unlink(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/css/post-968.css): No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/manager.php on line 111
+[22-Mar-2024 15:43:48 UTC] objectcache.notice: Could not verify license. cURL error 28: Failed to connect to objectcache.pro port 443 after 3852 ms: Couldn't connect to server
+[24-Apr-2024 15:27:14 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(/home/ujianori/vipgroup.id/wp-content/uploads/elementor/tmp/): Failed to open directory: No such file or directory in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/uploads-manager.php:637
+Stack trace:
+#0 /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/uploads-manager.php(637): RecursiveDirectoryIterator->__construct()
+#1 /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/uploads-manager.php(266): Elementor\Core\Files\Uploads_Manager->remove_directory_with_files()
+#2 /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/upgrade/upgrades.php(39): Elementor\Core\Files\Uploads_Manager->remove_file_or_dir()
+#3 [internal function]: Elementor\Core\Upgrade\Upgrades::_on_each_version()
+#4 /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/base/background-task.php(274): call_user_func()
+#5 /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/base/background-task.php(178): Elementor\Core\Base\Background_Task->task()
+#6 /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/base/background-process/wp-background-process.php(183): Elementor\Core\Base\Background_Task->handle()
+#7 /home/ujianori/vipgroup.id/wp-includes/class-wp-hook.php(324): Elementor\Core\Base\BackgroundProcess\WP_Background_Process->maybe_handle()
+#8 /home/ujianori/vipgroup.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/ujianori/vipgroup.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/ujianori/vipgroup.id/wp-admin/admin-ajax.php(207): do_action()
+#11 {main}
+  thrown in /home/ujianori/vipgroup.id/wp-content/plugins/elementor/core/files/uploads-manager.php on line 637
